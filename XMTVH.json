@@ -1,12 +1,28 @@
 {
   "urls": [
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmaec555/CCTV/main/jso.json",
-      "name": "高天流云 "
+      "url": "./0821.json",
+      "name": "高天流云 No.1"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmaec555/CCTV/main/oktv.json",
-      "name": "高天流云"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmaec555/CCTV/main/jso.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "./0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "./0827.json",
+      "name": "高天流云 FM"
+    },
+    {
+      "url": "./js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "./XYQ.json",
+      "name": "高天流云 XYQ"
     }
   ]
 }
