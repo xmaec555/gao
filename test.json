@@ -1,27 +1,27 @@
 {
   "urls": [
     {
-      "url": "./0821.json",
+      "url": "https://gitee.com/linjun1001/gao/blob/master/0826.json",
       "name": "高天流云 No.1"
     },
     {
-      "url": "./0825.json",
+      "url": "https://gitee.com/linjun1001/gao/blob/master/0826.json",
       "name": "高天流云 PG"
     },
     {
-      "url": "./0826.json",
+      "url": "https://raw.githubusercontent.com/xmaec555/pg/master/jsm.json",
       "name": "高天流云 FTY"
     },
     {
-      "url": "./0827.json",
+      "url": "https://raw.githubusercontent.com/xmaec555/pg/master/jsm.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "./js.json",
+      "url": "https://raw.githubusercontent.com/xmaec555/pg/master/jsm.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "./XYQ.json",
+      "url": "https://raw.githubusercontent.com/xmaec555/pg/master/jsm.json",
       "name": "高天流云 XYQ"
     }
   ]
